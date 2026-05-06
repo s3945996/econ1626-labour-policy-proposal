@@ -74,7 +74,34 @@ Ensures fair access to data and limits market concentration.
 **Cons:**
 - Complex to implement  
 ## Recommended Package & Implementation Plan
+A combined policy approach is recommended:
 
+- Targeted reskilling programs  
+- Wage insurance schemes  
+- Pro-competition data regulation  
+
+### Implementation Timeline
+- Year 1: Pilot training programs and introduce wage support  
+- Years 2–3: Expand programs nationally  
+- Years 4–5: Evaluate and adjust policies  
+
+### Responsibilities
+- Department of Employment & Skills  
+- Treasury  
+- Competition regulators  
+
+### Key Performance Indicators
+- Employment transition rates  
+- Wage recovery levels  
+- Training completion rates  
 ## Risks & Mitigations
+| Risk | Mitigation |
+|------|-----------|
+| Low training uptake | Provide incentives |
+| Budget constraints | Phase implementation |
+| Skill mismatch | Partner with industry |
 
 ## References
+Autor, D. (2015). Why are there still so many jobs?  
+OECD (2023). AI and the Labour Market.  
+Acemoglu, D. & Restrepo, P. (2020). AI and Jobs.
