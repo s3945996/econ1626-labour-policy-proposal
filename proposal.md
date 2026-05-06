@@ -19,7 +19,23 @@ The economic impact of AI operates through three key channels:
 
 The main policy challenge is the transition gap. Workers displaced from declining roles often lack the skills required for emerging jobs, leading to unemployment, underemployment, and wage pressure.
 ## Analysis of Impacts
+### Employment and Tasks
+AI is expected to reduce demand for routine and middle-skill jobs while increasing demand for high-skill and service-based roles. This leads to labour market polarisation, where employment grows at the top and bottom of the skill distribution.
 
+### Wages and Inequality
+AI increases the marginal productivity of high-skilled workers, leading to higher wages for these groups. In contrast, displaced workers may face wage declines, increasing income inequality.
+
+### Industrial Structure
+Firms with access to large datasets and advanced AI capabilities gain a competitive advantage, increasing market concentration. This raises concerns about reduced competition and growing monopoly power.
+
+### Distributional Effects
+The impact of AI is uneven:
+
+- Lower-skilled workers face higher displacement risk  
+- Urban regions benefit more than regional areas  
+- Knowledge-intensive industries grow faster  
+
+These effects create both economic opportunities and equity challenges.
 ## Policy Options
 
 ## Recommended Package & Implementation Plan
