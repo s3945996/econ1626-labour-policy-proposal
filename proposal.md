@@ -37,7 +37,42 @@ The impact of AI is uneven:
 
 These effects create both economic opportunities and equity challenges.
 ## Policy Options
+| Policy Option | Effectiveness | Equity | Cost | Feasibility |
+|--------------|-------------|--------|------|-------------|
+| Reskilling Programs | High | High | High | Medium |
+| Wage Insurance | Medium | High | Medium | High |
+| Competition Policy | Medium | Medium | Low | Medium |
 
+### 1. Reskilling Programs
+Government-funded training programs aimed at developing skills complementary to AI.
+
+**Pros:**
+- Addresses skill mismatch  
+- Supports long-term employment  
+
+**Cons:**
+- High cost  
+- Uncertain outcomes  
+
+### 2. Wage Insurance
+Provides temporary income support for displaced workers.
+
+**Pros:**
+- Reduces financial stress  
+- Encourages job transitions  
+
+**Cons:**
+- Does not directly improve skills  
+
+### 3. Competition & Data Policy
+Ensures fair access to data and limits market concentration.
+
+**Pros:**
+- Promotes innovation  
+- Prevents monopoly power  
+
+**Cons:**
+- Complex to implement  
 ## Recommended Package & Implementation Plan
 
 ## Risks & Mitigations
